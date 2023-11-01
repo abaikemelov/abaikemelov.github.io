@@ -11,7 +11,7 @@ Git
 Responsive design, high quality UI
 
 ## How to View the Portfolio
-You can easily view my portfolio by visiting the https://abaikemelov.github.io/resume.html website.
+You can easily view my portfolio by visiting the https://abaikemelov.github.io website.
 
 ## Contact Information
 Abai Kemelov
